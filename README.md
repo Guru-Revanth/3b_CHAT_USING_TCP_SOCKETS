@@ -33,7 +33,11 @@ while True:
  print("Server > ",s.recv(1024).decode())
 ```
 ## OUTPUT
-![Echo Client and Server using TCP Sockets](https://github.com/Aakashraj04/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/121117266/f4e589ec-f630-44a7-8392-cfeb331f28e3)
+## Client:
+![Screenshot 2024-04-29 141459](https://github.com/23013743/3b_CHAT_USING_TCP_SOCKETS/assets/161271714/1b734ae7-d464-403d-8f52-20c870c40213)
+
+## Server:
+![Screenshot 2024-04-29 141506](https://github.com/23013743/3b_CHAT_USING_TCP_SOCKETS/assets/161271714/f2c8dd36-8f4b-4457-80f1-5eff019c2807)
 
 
 ## RESULT
